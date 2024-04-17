@@ -1,2 +1,2 @@
 # chaves
-Um gerador de senhas em Python.
+Um gerador de senhas seguras em Python.
